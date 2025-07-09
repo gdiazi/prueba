@@ -1,17 +1,4 @@
 [
-  {
-    "id": 1,
-    "nombre": "Juan Pérez",
-    "email": "juan.perez@example.com"
-  },
-  {
-    "id": 2,
-    "nombre": "María García",
-    "email": "maria.garcia@example.com"
-  },
-  {
-    "id": 3,
-    "nombre": "Carlos Ruiz",
-    "email": "carlos.ruiz@example.com"
-  }
+  { "nombre": "Ana", "edad": 25 },
+  { "nombre": "Luis", "edad": 30 }
 ]
